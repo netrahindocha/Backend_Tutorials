@@ -1,0 +1,1 @@
+Hello this file contains some text which is to be read by Node.js using fs.readFileSync method
